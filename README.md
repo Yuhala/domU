@@ -1,2 +1,2 @@
 # domU
-domU : linux kernel 4.13.4 
+domU : linux kernel version 4.13.4 
